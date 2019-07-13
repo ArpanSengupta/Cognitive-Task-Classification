@@ -21,3 +21,14 @@ Hemodynamic Brain Signal Processing for Cognitive Task Classification
 6. Power spectral density 
 7. Discrete wavelet transform 
 8. [Differential evolution](https://www.mathworks.com/matlabcentral/fileexchange/18593-differential-evolution) 
+- - - - 
+
+## BCI
+
+Any natural form of communication or control requires peripheral nerves and muscles.
+The process begins with the user’s intent. This intent triggers a complex
+process in which certain brain areas are activated, and hence signals are sent via
+the peripheral nervous system (specifically, the motor pathways) to the corresponding
+muscles, which in turn perform the movement necessary for the communication
+or control task.
+- - - - 
