@@ -32,3 +32,10 @@ the peripheral nervous system (specifically, the motor pathways) to the correspo
 muscles, which in turn perform the movement necessary for the communication
 or control task.
 - - - - 
+## Measuring Brain Activity
+
+The name 10–20 indicates that the most
+commonly used electrodes are positioned 10, 20, 20, 20, 20, and 10% of the total
+nasion-inion distance. The other electrodes are placed at similar fractional distances.
+The inter-electrode distances are equal along any transverse (from left to right) and
+antero-posterior (from front to back) line and the placement is symmetrical.
