@@ -83,6 +83,19 @@ cursor, robot arm, or mobile robot. Selective attention to a specific flashing
 symbol/letter elicits a brain pattern called P300, which develops in centro-parietal
 brain areas about 300 ms after the presentation of the stimulus.
 
+![Time-series-and-amplitude-spectra-of-stimulus-signal-and-SSVEPs-Time-series-sequences-of](https://user-images.githubusercontent.com/44690292/61197983-3c471300-a6f5-11e9-969f-476ff93f1d03.png)
+
+> Like P300 SSVEP requires a number of visual stimuli. 
+> In contrast to the P300 approach, however, these stimuli
+do not flash successively, but flicker continuously with different frequencies in
+the range of about 6–30 Hz. Paying attention to one of the flickering stimuli elicits
+an SSVEP in the visual cortex that has the same frequency as the target
+flicker.
+
+** The SSVEP will try to match the flicker rate of the target flicker**
+
+
+
 
 
 
