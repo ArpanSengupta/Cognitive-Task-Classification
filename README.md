@@ -53,3 +53,36 @@ antero-posterior (from front to back) line and the placement is symmetrical.
 - - - - 
 
 ### Mental Strategies and Brain Patterns
+
+* The mental strategy is the foundation of any brain–computer
+communication.
+* The mental strategy determines what the user has to do to volitionally
+produce brain patterns that the BCI can interpret.
+* The most common
+mental strategies are selective (focused) attention and motor imagery.
+
+**1. Selective Attention**
+* The stimuli can be auditory or somatosensory
+* Most BCI's are based on visual stimuli
+
+>A BCI based on selective attention could rely on five stimuli.
+Four stimuli are associated with the commands for cursor movement: left, right, up,
+and down. The fifth stimulus is for the select command.
+
+* Visual attention can be implemented using two different BCI
+
+- [x] P300 potentials
+- [] Steady state visual evoked potential (SSVEP)
+
+![fig_11](https://user-images.githubusercontent.com/44690292/61197626-af4f8a00-a6f3-11e9-93db-976f9ee8ff17.gif)
+
+
+>A P300 based BCI relies on stimuli that flash in succession. These stimuli are
+usually letters, but can be symbols that represent other goals, such as controlling a
+cursor, robot arm, or mobile robot. Selective attention to a specific flashing
+symbol/letter elicits a brain pattern called P300, which develops in centro-parietal
+brain areas about 300 ms after the presentation of the stimulus.
+
+
+
+
