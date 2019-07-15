@@ -72,7 +72,7 @@ and down. The fifth stimulus is for the select command.
 * Visual attention can be implemented using two different BCI
 
 - [x] P300 potentials
-- [] Steady state visual evoked potential (SSVEP)
+- [ ] Steady state visual evoked potential (SSVEP)
 
 ![fig_11](https://user-images.githubusercontent.com/44690292/61197626-af4f8a00-a6f3-11e9-93db-976f9ee8ff17.gif)
 
