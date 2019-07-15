@@ -94,6 +94,7 @@ flicker.
 
 ** The SSVEP will try to match the flicker rate of the target flicker**
 
+**2. Motor Imagery**
 
 
 
