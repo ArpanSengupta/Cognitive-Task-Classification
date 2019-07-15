@@ -92,7 +92,8 @@ the range of about 6–30 Hz. Paying attention to one of the flickering stimuli 
 an SSVEP in the visual cortex that has the same frequency as the target
 flicker.
 
-** The SSVEP will try to match the flicker rate of the target flicker**
+**The SSVEP will try to match the flicker rate of the target flicker**
+- - - -
 
 **2. Motor Imagery**
 
