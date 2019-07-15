@@ -23,7 +23,7 @@ Hemodynamic Brain Signal Processing for Cognitive Task Classification
 8. [Differential evolution](https://www.mathworks.com/matlabcentral/fileexchange/18593-differential-evolution) 
 - - - - 
 
-## BCI
+### BCI
 
 Any natural form of communication or control requires peripheral nerves and muscles.
 The process begins with the user’s intent. This intent triggers a complex
@@ -32,10 +32,24 @@ the peripheral nervous system (specifically, the motor pathways) to the correspo
 muscles, which in turn perform the movement necessary for the communication
 or control task.
 - - - - 
-## Measuring Brain Activity
+### Measuring Brain Activity
 
 The name 10–20 indicates that the most
 commonly used electrodes are positioned 10, 20, 20, 20, 20, and 10% of the total
 nasion-inion distance. The other electrodes are placed at similar fractional distances.
 The inter-electrode distances are equal along any transverse (from left to right) and
 antero-posterior (from front to back) line and the placement is symmetrical.
+
+![10-20](https://user-images.githubusercontent.com/44690292/61197021-22570180-a6f0-11e9-801c-1c447b24afc9.png)
+
+
+* Fp - Pre Frontal
+* F - Frontal
+* C - Central
+* P - Parietal
+* O - Occipital
+* T - Temporal
+
+- - - - 
+
+### Mental Strategies and Brain Patterns
